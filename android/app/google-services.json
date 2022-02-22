@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "199251223908",
+    "firebase_url": "https://unote-4bd5f.firebaseio.com",
+    "project_id": "unote-4bd5f",
+    "storage_bucket": "unote-4bd5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199251223908:android:bc83161a4738103fc64671",
+        "android_client_info": {
+          "package_name": "co.yahya.u_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199251223908-cng64r2a38099i5fqb5hs606fqsnf4ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Fd20dKaIOdykTjZuZttx5NJgcTa7914"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199251223908-cng64r2a38099i5fqb5hs606fqsnf4ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
